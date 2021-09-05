@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MultiLanguageDemo</string>
+    <string name="change_language">تغيير اللغة</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="password">كلمه السر</string>
+    <string name="name">اسم</string>
+    <string name="welcome_to_multilanguage_application">مرحبا بكم في تطبيق متعدد اللغات</string>
+</resources>

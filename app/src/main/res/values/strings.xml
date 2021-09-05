@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MultiLanguageDemo</string>
+    <string name="change_language">Change Language</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="welcome_to_multilanguage_application">Welcome to Multilanguage Application</string>
+</resources>

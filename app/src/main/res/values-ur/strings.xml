@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MultiLanguageDemo</string>
+    <string name="change_language">زبان تبدیل کریں</string>
+    <string name="login">لاگ ان کریں</string>
+    <string name="password">پاس ورڈ</string>
+    <string name="name">نام۔</string>
+    <string name="welcome_to_multilanguage_application">کثیر زبان کی درخواست میں خوش آمدید۔</string>
+</resources>
